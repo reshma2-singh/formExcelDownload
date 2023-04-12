@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.btnn{
+    background-color: aquamarine;
+}
